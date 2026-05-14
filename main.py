@@ -1,5 +1,5 @@
 import time
-VERSION = "2.0.0"
+VERSION = "3.0.0"
 while True:
-    print("REBOOT TEST: I AM NOW VERSION 2.0.0!")
+    print("REBOOT TEST: I AM NOW VERSION 3.0.0! SUCCESS.")
     time.sleep(5)
